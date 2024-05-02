@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "discord.js": "^13.17.1"
+  },
+  "name": "catbot",
+  "version": "1.0.0",
+  "description": "A multifonction bot.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "/aide"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EitamYT/Catbot.git"
+  },
+  "author": "Eitam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EitamYT/Catbot/issues"
+  },
+  "homepage": "https://github.com/EitamYT/Catbot#readme"
+}
